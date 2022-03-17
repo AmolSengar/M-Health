@@ -12,4 +12,21 @@ public class MHealthApplication {
 		System.out.println("Hello1");
 	}
 
+	/* 
+	 * new user / existing one
+	 * 
+	 * sign up (name , ph no., age)
+	 * 
+	 * doctor or nurse ?
+	 * 
+	 * doctor - list of doctors 
+	 *
+	 * make payment - yes or no
+	 * 
+	 * if yes 
+	 * "your appointment is fixed with doctor at this time "
+	 * 
+	 * if no 
+	 * no appointed scheduled 
+	 */
 }
